@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Computer Science graduate student at the University of Illinois at Chicago. 
+
+- 🔭 I’m currently working under Dr. Luís Pina on a multi version execution system for managed languages called JMVX. 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankith-c-kowshik-306860168/) | [email](mailto:ankith.kowshik@gmail.com)
+- 🌐 
